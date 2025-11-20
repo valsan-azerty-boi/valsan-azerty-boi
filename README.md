@@ -6,7 +6,7 @@
 # valsan-azerty-boi
 ![C](https://img.shields.io/badge/Yet%20another%20developper-000000?style=for-the-badge)
 <br>
-[![Nexus Mods Unique Downloads](https://img.shields.io/badge/Nexus%20Mods%20Unique%20Downloads-125%20k-green)](https://next.nexusmods.com/profile/bibsan)<br>[![Nexus Mods Total Downloads](https://img.shields.io/badge/Nexus%20Mods%20Total%20Downloads-282%20k-green)](https://next.nexusmods.com/profile/bibsan)<br>[![Mod.io Total Downloads](https://img.shields.io/badge/Mod%2Eio%20Total%20Downloads-5%2E9%20M-blue)](https://mod.io/u/bib-qwerty-san)<br>![Curseforge Total Downloads](https://img.shields.io/badge/Curseforge%20Total%20Downloads-1%20k-orange)
+[![Nexus Mods Unique Downloads](https://img.shields.io/badge/Nexus%20Mods%20Unique%20Downloads-150%20k-green)](https://next.nexusmods.com/profile/bibsan)<br>[![Nexus Mods Total Downloads](https://img.shields.io/badge/Nexus%20Mods%20Total%20Downloads-320%20k-green)](https://next.nexusmods.com/profile/bibsan)<br>[![Mod.io Total Downloads](https://img.shields.io/badge/Mod%2Eio%20Total%20Downloads-6%2E5%20M-blue)](https://mod.io/u/bib-qwerty-san)<br>![Curseforge Total Downloads](https://img.shields.io/badge/Curseforge%20Total%20Downloads-1%20k-orange)
 </td>
 <td>
 
@@ -37,3 +37,8 @@
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+**ETH donation** : 0x194a35d0c9eb10c6db46625f008684d4a8c02b7b
+**BTC donation** : bc1q9h6whsa6r7r9s80vyjhgvyvwmutdvanl7wqsdk
