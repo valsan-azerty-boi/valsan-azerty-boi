@@ -35,6 +35,6 @@
 
 ---
 
-**ETH donation** : 0x194a35d0c9eb10c6db46625f008684d4a8c02b7b
+**ETH** : 0x194a35d0c9eb10c6db46625f008684d4a8c02b7b
 
-**BTC donation** : bc1q9h6whsa6r7r9s80vyjhgvyvwmutdvanl7wqsdk
+**BTC** : bc1q9h6whsa6r7r9s80vyjhgvyvwmutdvanl7wqsdk
