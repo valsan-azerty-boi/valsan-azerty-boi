@@ -10,7 +10,7 @@
 </td>
 <td>
 
-<img src="https://i.imgur.com/LIxzSka.png" width="165"/>
+<img src="https://raw.githubusercontent.com/valsan-azerty-boi/valsan-azerty-boi/refs/heads/main/pp.png" width="165"/>
 
 </td>
 </tr>
