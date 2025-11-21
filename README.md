@@ -8,11 +8,6 @@
 <br>
 [![Nexus Mods Unique Downloads](https://img.shields.io/badge/Nexus%20Mods%20Unique%20Downloads-150%20k-green)](https://next.nexusmods.com/profile/bibsan)<br>[![Nexus Mods Total Downloads](https://img.shields.io/badge/Nexus%20Mods%20Total%20Downloads-320%20k-green)](https://next.nexusmods.com/profile/bibsan)<br>[![Mod.io Total Downloads](https://img.shields.io/badge/Mod%2Eio%20Total%20Downloads-6%2E5%20M-blue)](https://mod.io/u/bib-qwerty-san)<br>![Curseforge Total Downloads](https://img.shields.io/badge/Curseforge%20Total%20Downloads-1%20k-orange)
 </td>
-<td>
-
-<img src="https://raw.githubusercontent.com/valsan-azerty-boi/valsan-azerty-boi/refs/heads/main/pp.png" width="165"/>
-
-</td>
 </tr>
 </table>
 
