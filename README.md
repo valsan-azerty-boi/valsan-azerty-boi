@@ -35,6 +35,8 @@
 
 ---
 
-**ETH** : 0x194a35d0c9eb10c6db46625f008684d4a8c02b7b
+**Eth** : 0x194a35d0c9eb10c6db46625f008684d4a8c02b7b
 
-**BTC** : bc1q9h6whsa6r7r9s80vyjhgvyvwmutdvanl7wqsdk
+**Btc** : bc1qeuc53fxk2g6sgevk3lwnvg28aa3c9a45h8gu65
+
+**Solana** : 8oY61FbirbvNJtQfCBSChWE4gwWgf62rCCVJmh8EFhDi 
